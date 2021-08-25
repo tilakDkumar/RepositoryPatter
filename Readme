@@ -1,0 +1,38 @@
+Title : Contact Form.
+Version:1.0
+Date updated:05 june 2021
+
+
+
+
+Some NOTE before going to Run the code ..
+
+
+NOTE : Please Do install node_modules By using this command ==npm install for both folder
+
+1)source code placed in a folder called "work"
+
+2)work folder contain 2 main folder called api(backend code) and frontend( in angular).
+
+3)and also there is a .sql file called dump.sql used for creating database and table.
+
+*******commands******
+
+1)Backend code (api)
+
+*npm install //for install lib
+
+*npm start//to run the code
+
+
+2)frontend code (frontend)
+
+*have to  install angular cli // i have use angular cli v11.2.11
+
+*npm start // for run the code
+
+
+3) dump.sql file is used for crating databas and table.
+
+
+thank you
